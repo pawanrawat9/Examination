@@ -1,0 +1,277 @@
+body
+{
+	margin-top :0px;
+	margin-left :0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: #434367;
+	background: url("../images/bg2.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover; /* For WebKit*/
+    -moz-background-size: cover;    /* Mozilla*/
+    -o-background-size: cover;      /* Opera*/
+    background-size: cover;         /* Generic*/
+
+    
+}
+
+A:link
+{    
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color:  blue;
+}
+
+A:visited
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+	BACKGROUND: none;
+    color: blue;
+}
+
+A:active
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline;
+	BACKGROUND: none;
+    color: blue;
+}
+
+A:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: underline ;
+    
+	BACKGROUND: none;
+    color: maroon;
+}
+
+td
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: maroon;
+    
+}
+
+.td_top
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color:maroon;
+    /*background: gold;*/
+    height:70px;
+    /*BORDER-BOTTOM: aqua 4px solid; 
+    BORDER-TOP: aqua  4px solid; */
+    
+}
+.td_copyright
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: maroon;
+    background: aqua;
+    height:50px;
+    /*BORDER-TOP: orange 4px solid; */)
+    
+    
+}
+
+.td_topvav
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    /*background: #F7DF80;*/
+    height:20px;
+	BORDER-TOP: maroon 2px double; 
+    BORDER-BOTTOM: maroon 2px double; 
+    
+    
+}
+
+.td_tablehead
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    /*background: #C0E4CC;*/
+    height:20px;
+    align:center;
+    
+    
+}
+
+.td_tablecap
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    background: #B7E8FF;
+    height:20px;
+    BORDER-BOTTOM: #006666 1px solid; 
+    text-align:left;
+    
+}
+
+.td_tablecap1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+    
+    height:20px;
+    BORDER-BOTTOM: #006666 1px solid; 
+    text-align:left;
+    
+}
+
+.TextBoxStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    background: #FCF2C;
+    BORDER-BOTTOM: gold 1px solid; 
+    BORDER-TOP: gold  1px solid;
+    BORDER-LEFT: gold  1px solid;
+    BORDER-RIGHT: gold  1px solid;
+    height:22px; 
+}
+.TextBoxArea
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    background: #FCF2C;
+    BORDER-BOTTOM: gold 1px solid; 
+    BORDER-TOP: gold 1px solid;
+    BORDER-LEFT: gold 1px solid;
+    BORDER-RIGHT: gold 12px solid;
+    
+}
+
+.ButtonStyle
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    font-style: normal;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    BORDER-BOTTOM: maroon 1px double; 
+    BORDER-TOP: maroon  1px double;
+    BORDER-LEFT: maroon  1px double;
+    BORDER-RIGHT: maroon  1px double; 
+    height:24px; 
+
+}
+
+.Errortext
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: none;
+    word-spacing: normal;
+    letter-spacing: normal;
+    text-transform: none;
+    text-decoration: none;
+    color: red;
+    
+}
